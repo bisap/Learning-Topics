@@ -13,3 +13,5 @@ pipline --> https://jenkins.io/doc/book/pipeline/
 SOA and microservices
 Docker volumes
 Semantic Versioning Specification (SemVer)
+Database as service
+satefull ervice stateless service
