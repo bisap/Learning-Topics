@@ -15,4 +15,8 @@ Docker volumes
 Semantic Versioning Specification (SemVer)
 Database as service
 satefull ervice stateless service
-Docker voulume--> Docker host file system, Bind Mount --> Host machine file system, tmpfs --> non persistent data and reside in conatainer memory 
+
+<b>Docker voulume </b>
+Volume--> Docker host file system, Managed by Docker
+Bind Mount --> Host machine file system, Manges by host machine
+tmpfs --> non persistent data and reside in conatainer memory 
