@@ -1,23 +1,27 @@
-Code Refactoring
-<p>
-Behaviour testing development in .net
-<p>
-LDAP
-<p>
-SAML
-Configuration Management
-Agent based architecture
-Inftrastructure as code(taraforms)
-CDN
-Blue green deployment
-Terraform
-softwere agent
-pipline --> https://jenkins.io/doc/book/pipeline/
-SOA and microservices
-Docker volumes
-Semantic Versioning Specification (SemVer)
-Database as service
-satefull ervice stateless service
+<ul>
+  <li>Code Refactoring</li>
+  <li>Behaviour testing development in .net</li>
+  <li>LDAP</li>
+  <li>Code Refactoring</li>
+  <li>Behaviour testing development in .net</li>
+  <li>SAML</li>
+  <li>Configuration Management</li>
+  <li>Agent based architecture</li>
+  <li>Inftrastructure as code(taraforms)</li>
+  <li>CDN</li>  
+  <li>Blue green deployment</li>
+  <li>Terraform</li>
+  <li>softwere agent</li>
+  <li>pipline --> https://jenkins.io/doc/book/pipeline/</li>
+  <li>SOA and microservices</li>
+  <li>Semantic Versioning Specification (SemVer)</li>
+  <li>Database as service</li>
+  <li>satefull ervice stateless service</li>
+  <li>SAML</li>
+  <li>Docker voulume</li>
+</ul>
+
+
 
 <b>Docker voulume </b>
 Volume--> Docker host file system, Managed by Docker
