@@ -19,7 +19,7 @@
   <li>satefull ervice stateless service</li>
   <li>SAML</li>
   <li>Docker voulume</li>
-  <li>Query Specification pattern</li>
+  <li>Query Specification pattern (EF Core)</li>
 </ul>
 
 
