@@ -20,6 +20,7 @@
   <li>SAML</li>
   <li>Docker voulume</li>
   <li>Query Specification pattern (EF Core)</li>
+  <li>The Rise of Real-Time Event-Driven Architecture</li>
 </ul>
 
 
