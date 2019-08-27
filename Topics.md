@@ -21,6 +21,7 @@
   <li>Docker voulume</li>
   <li>Query Specification pattern (EF Core)</li>
   <li>The Rise of Real-Time Event-Driven Architecture</li>
+  <li>Content-Security-Policy</li>
 </ul>
 
 
